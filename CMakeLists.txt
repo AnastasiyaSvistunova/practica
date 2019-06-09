@@ -1,0 +1,11 @@
+﻿cmake_minimum_required (VERSION 3.8)
+
+project("Practica")
+
+add_subdirectory("Laba1")
+add_subdirectory("Laba2")
+add_subdirectory("Laba3")
+add_subdirectory("Laba4")
+add_subdirectory("Laba5")
+add_subdirectory("Laba6")
+add_subdirectory("Laba7")
